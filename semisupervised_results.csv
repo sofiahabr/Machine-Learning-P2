@@ -1,0 +1,5 @@
+Strategy,Accuracy,N_Labeled,Improvement
+Random (100 instances),0.847877358490566,100,0.00%
+Representative (50 instances),0.8349056603773585,50,-1.53%
+Full Propagation (3390 instances),0.839622641509434,3390,-0.97%
+Partial Propagation (700 instances),0.8242924528301887,700,-2.78%
